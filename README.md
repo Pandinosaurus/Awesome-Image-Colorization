@@ -300,6 +300,7 @@ A collection of **Deep Learning** based Image Colorization papers and correspond
 | Line art | [DACoN: DINO for Anime Paint Bucket Colorization with Any Number of Reference Images](https://arxiv.org/abs/2509.14685) | ICCV 2025 | [[code]](https://github.com/kzmngt/DACoN) |
 | Line art | [A Unified Framework for Industrial Cel-Animation Colorization with Temporal-Structural Awareness](https://openaccess.thecvf.com/content/ICCV2025/papers/Feng_A_Unified_Framework_for_Industrial_Cel-Animation_Colorization_with_Temporal-Structural_Awareness_ICCV_2025_paper.pdf) | ICCV 2025 |  |
 | Line art | [LongAnimation: Long Animation Generation with Dynamic Global-Local Memory](https://openaccess.thecvf.com/content/ICCV2025/papers/Chen_LongAnimation_Long_Animation_Generation_with_Dynamic_Global-Local_Memory_ICCV_2025_paper.pdf) | ICCV 2025 | [[webpage]](https://cn-makers.github.io/long_animation_web/) |
+| Line art | [TimeColor: Flexible Reference Colorization via Temporal Concatenation](https://arxiv.org/abs/2601.00296) | arxiv 26.01 | [[webpage]](https://bconstantine.github.io/TimeColor/) |
 
 
 
